@@ -1,0 +1,59 @@
+body    {
+    background-color: #606c38;
+    font-family: 'Rubik', sans-serif;
+}
+
+#mainNav .navbar-brand{
+    color: #283618;
+}
+
+#mainNav{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNav .nav-link{
+    color: #fefae0;
+}
+
+#mainNav .nav-link:hover{
+    color: #283618;
+}
+
+#Head h1 {
+    font-weight: 100;
+    font-size: 3rem ;
+   }
+
+ @media (max-width: 1200px) {
+
+    #Head h1 {
+    font-weight: 100;
+    font-size: 2rem ;
+   }
+ }
+
+ h2 {
+    color: #fefae0;
+    font-size: 2.5rem;
+ }
+
+ p{
+    color: #dda15e;
+    font-weight: 100;
+    font-size: 1.25rem;
+    line-height: 2;
+ }
+
+ .content {
+    margin-bottom:100px;
+ }
+
+ img {
+  height: 10%;
+ }
+
+ .scrolled {
+    background-color: #bc6c25;
+    transition: background 0.5s;
+ }
